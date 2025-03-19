@@ -300,7 +300,7 @@ article.active {
 }
 
 .avatar-box {
-  background: var(--bg-gradient-onyx);
+  background:--bg-gradient-jet ;
   border-radius: 20px;
 }
 
